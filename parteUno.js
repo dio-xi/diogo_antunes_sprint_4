@@ -45,3 +45,20 @@ let user = getName(
     }
 );
 
+//### Challenge `appleIndex`
+
+const shoppingList = ["naranja", "uva", "manzana", "plátano", "mango"];
+
+function appleIndex(list) {
+    return list.indexOf(x);
+}
+
+let x = "manzana";
+
+//### Challenge `isItAnApple`
+
+const shoppingList = ["orange", "apple", "banana", "apples", "apple", "mango"]
+
+function isItAnApple(array) {
+    return array.map(item => item === "apple");
+}
